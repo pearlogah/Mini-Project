@@ -1,0 +1,13 @@
+New Goerli
+0xeC6bF88739A140B2Be3438b394f9d67D8EBe7c9f
+https://goerli.etherscan.io/token/0xec6bf88739a140b2be3438b394f9d67d8ebe7c9f
+
+Bsc Testnet
+0xf091cb12587d42D02F6CEC5378E9A00e8de45E96
+https://testnet.bscscan.com/token/0xf091cb12587d42D02F6CEC5378E9A00e8de45E96
+
+Polygon
+0x941Cb8fDCaf8124683b7defd3401a51314683cAb
+https://mumbai.polygonscan.com/token/0x941Cb8fDCaf8124683b7defd3401a51314683cAb
+
+
